@@ -31,13 +31,13 @@ class CustomerCard(
 
     fun setCustomerName(name: String) {
         customerNameTextView.text = name
-        invalidate()
-        requestLayout()
+//        invalidate()
+//        requestLayout()
     }
 
     fun setProgress(progress: Int) {
         serviceProgress.progress = progress
-        invalidate()
-        requestLayout()
+//        invalidate()
+//        requestLayout()
     }
 }
