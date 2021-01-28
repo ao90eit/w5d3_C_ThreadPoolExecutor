@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomerCard">
+        <attr name="CustomerName" format="string"/>
+        <attr name="ServiceProgress" format="integer"/>
+    </declare-styleable>
+</resources>
